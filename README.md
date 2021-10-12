@@ -8,7 +8,7 @@
 
 **Интро**
 
-Проект о путешествии по России.
+[Проект] (https://elenasolov.github.io/russian-travel/index.html) о путешествии по России.
 Адаптивный сайт, созданный на основе макета в [Figma] (https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 **Figma**
