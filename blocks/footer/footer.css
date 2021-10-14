@@ -1,7 +1,8 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  max-width: 92%;
+  width: 92%;
+  max-width: calc(1280px - 48px * 2);
   align-items: center;
   height: fit-content;
 }
